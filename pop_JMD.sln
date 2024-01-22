@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pop_JMD", "pop_JMD\pop_JMD.csproj", "{42D8123F-D65A-4C82-B814-F382830CEBA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42D8123F-D65A-4C82-B814-F382830CEBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D8123F-D65A-4C82-B814-F382830CEBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D8123F-D65A-4C82-B814-F382830CEBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D8123F-D65A-4C82-B814-F382830CEBA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2619C26-6BC2-4019-9290-C983F56554EC}
+	EndGlobalSection
+EndGlobal
